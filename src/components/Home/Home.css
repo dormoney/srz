@@ -1,0 +1,10 @@
+article:hover{
+    border-color: black;
+    transition: ease .5s;
+}
+button:hover{
+    border: 2px solid #54a431;
+    background: none;
+    color: #54a431;
+    transition: ease .5s;
+}
